@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SkillSwap - Home</title>
+     <a href="signup.html"><button>Sign Up</button></a>
+    <a href="dashboard.html"><button>Dashboard</button></a>
+     <a href="chat.html"><button>chat</button></a>
+    <link rel="stylesheet" href="Styles.css">
+</head>
+<body>
+    <h1>Welcome to SkillSwap</h1>
+    <button onclick="navigateTo('signup.html')">Sign Up</button>
+    <button onclick="navigateTo('dashboard.html')">Login</button>
+    
+    <script src="script.js"></script>
+</body>
+</html>
