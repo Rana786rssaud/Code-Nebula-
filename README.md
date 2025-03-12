@@ -10,3 +10,15 @@ Yash Jha
 Saud Rana 
 krishna shah 
 prince thakkar 
+
+About  Code Nebula 
+"Code Nebula" sounds like it could be a coding community, organization, or platform, but I don't have specific details about it. Are you referring to an existing platform, or is this a name you’re considering for your SkillSwap - Peer-to-Peer Learning project?
+
+If you're thinking of branding SkillSwap as "Code Nebula," you could position it as a collaborative coding and learning hub where users can exchange skills, mentor each other, and grow together. It could offer:
+
+Skill Exchange System – Users teach and learn skills through a structured barter system.
+Live Coding Sessions – Interactive coding sessions for mentorship and problem-solving.
+Project Collaboration – A space to work on open-source or personal projects.
+Gamified Learning – Badges, points, and leaderboards to encourage engagement.
+Community Forums & Challenges – Discussion boards and coding challenges to build expertise.
+
