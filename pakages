@@ -1,0 +1,67 @@
+/* Users Collection */
+[
+  {
+    "_id": "u1",
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "skills": ["Python", "Data Analysis"],
+    "learningInterests": ["Web Development", "AI"],
+    "location": "New York",
+    "createdAt": "2025-03-01T10:00:00Z"
+  },
+  {
+    "_id": "u2",
+    "name": "Bob Smith",
+    "email": "bob.smith@example.com",
+    "skills": ["Web Development", "JavaScript"],
+    "learningInterests": ["Data Science", "Machine Learning"],
+    "location": "San Francisco",
+    "createdAt": "2025-03-02T11:00:00Z"
+  }
+]
+
+/* Courses Collection */
+[
+  {
+    "_id": "c1",
+    "title": "Introduction to Python",
+    "description": "Learn Python from scratch.",
+    "instructorId": "u1",
+    "participants": ["u2"],
+    "createdAt": "2025-03-03T09:00:00Z"
+  }
+]
+
+/* Skill Requests Collection */
+[
+  {
+    "_id": "sr1",
+    "userId": "u2",
+    "requestedSkill": "Python",
+    "status": "Open",
+    "createdAt": "2025-03-04T12:00:00Z"
+  }
+]
+
+/* Reviews Collection */
+[
+  {
+    "_id": "r1",
+    "courseId": "c1",
+    "reviewerId": "u2",
+    "rating": 5,
+    "comment": "Great course! Highly recommended.",
+    "createdAt": "2025-03-05T13:00:00Z"
+  }
+]
+
+/* Messages Collection */
+[
+  {
+    "_id": "m1",
+    "senderId": "u1",
+    "receiverId": "u2",
+    "message": "Hey Bob, I see you are interested in learning Python! Let's connect.",
+    "createdAt": "2025-03-06T14:00:00Z"
+  }
+]
