@@ -12,6 +12,8 @@ Our platform operates on a swap-based model, where users can offer their experti
 By leveraging technology and community-driven engagement, SkillSwap aims to bridge the skill gap, promote lifelong learning, and create a decentralized education system that is powered by learners, for learners.
 
 Team Memeber Name 
+
+
 Yash Jha 
 Saud Rana 
 krishna shah 
